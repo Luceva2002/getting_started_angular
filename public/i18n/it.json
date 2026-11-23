@@ -1,0 +1,18 @@
+{
+  "nav": {
+    "home": "Per iniziare",
+    "docs": "Documentazione"
+  },
+  "badge": "Starter Angular pulito",
+  "title": "Un progetto. Tre strumenti eccellenti.",
+  "description": "Un piccolo workspace Angular moderno, con PrimeNG e Tailwind CSS, pronto per la tua prossima idea.",
+  "liveSignal": "Segnale live",
+  "active": "Attivo",
+  "placeholder": "Scrivi un nuovo messaggio",
+  "update": "Aggiorna",
+  "footer": "Angular 21 · Componenti standalone · Segnali",
+  "languages": {
+    "en": "English",
+    "it": "Italiano"
+  }
+}
