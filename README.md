@@ -5,8 +5,7 @@ Starter Angular moderno con Angular 21, componenti standalone, PrimeNG e Tailwin
 ## Avvia il progetto
 
 ```bash
-npm install
-npm start
+npm install && ng serve
 ```
 
 Apri `http://localhost:4200/`.
